@@ -19,7 +19,7 @@ Responsive Design: MyBlog is optimized to work on various devices, including des
 #Installation
 To set up MyBlog on your local machine, follow these steps:
 
-Clone the repository: git clone https://github.com/yourusername/myblog.git
+Clone the repository: git clone https://github.com/denny254/myblog.git
 Change directory to the project folder: cd myblog
 Create a virtual environment: python -m venv venv
 Activate the virtual environment:
